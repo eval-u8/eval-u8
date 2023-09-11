@@ -15,7 +15,7 @@ I'm Ernesto, front end (for now) web developer from Venezuela, based in Houston.
 * React.
 * TailWind.
 
-## Tech Interests (plan on learning) 👨‍💻
+## Tech Interests 👨‍💻
 * Rust.
 * Svelte.
 * Golang.
