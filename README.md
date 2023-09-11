@@ -1,16 +1,28 @@
-### Hi there 👋
+### Aloha 🌊
+I'm Ernesto, front end (for now) web developer from Venezuela, based in Houston.
 
-<!--
-**eval-u8/eval-u8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👩‍🏭 Currently working at [Koch-Glitsch.](https://koch-glitsch.com/)
+- 🌱 Currently learning more advanced practices of web development.
+- 🤔 Looking for help with contributing to OSS.
+- 📫 How to reach me: evalecillos@gmail.com.
+- ⚡  Fun fact: I speak Spanish and have been on a 7-week streak learning Japanese.
 
-Here are some ideas to get you started:
+## Skills 💪
+* HTML.
+* CSS.
+* JavaScript.
+* React.
+* TailWind.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Interests (plan on learning) 👨‍💻
+* Rust.
+* Svelte.
+* Golang.
+* Angular.
+
+## Other Interests 👀
+* Football (some call it soccer)
+* Traveling.
+* Rock or EDM music.
+* Trying new foods.
+* Video games.
