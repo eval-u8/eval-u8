@@ -2,6 +2,7 @@
 I'm Ernesto, front end (for now) web developer from Venezuela, based in Houston.
 
 - 👩‍🏭 Currently working at [Koch-Glitsch.](https://koch-glitsch.com/)
+  - Built a web app that ended up being implemented company-wide.
 - 🌱 Currently learning more advanced practices of web development.
 - 🤔 Looking for help with contributing to OSS.
 - 📫 How to reach me: evalecillos@gmail.com.
