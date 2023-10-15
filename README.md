@@ -5,8 +5,7 @@ I'm Ernesto, full-stack web developer from Venezuela, based in Houston.
 - 🌱 Currently learning more advanced practices of web development.
 - 🤔 Looking for help with contributing to OSS.
 - 📫 How to reach me: evalecillos@gmail.com.
-- ⚡  Fun fact: I speak Spanish and have been on a 7-week streak learning Japanese.
-
+- ⚡  Fun fact: Native Spanish speaker, I also like languages as a whole.
 ## Skills 💪
 * HTML
 * CSS
@@ -14,13 +13,13 @@ I'm Ernesto, full-stack web developer from Venezuela, based in Houston.
 * React
 * TailWind
 
-## Tech Interests 👨‍💻
-* Rust
-* Svelte
-* Golang
-* Angular
-* Bun
-* Astro
+## Current Tech Interests 👨‍💻
+* [Rust](https://www.rust-lang.org/)
+* [Svelte](https://svelte.dev/)
+* [Golang](https://go.dev/)
+* [Angular](https://angular.io/)
+* [Bun](https://bun.sh/)
+* [Astro](https://astro.build/)
 
 ## Other Interests 👀
 * Football (some call it soccer)
