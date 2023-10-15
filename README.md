@@ -1,5 +1,5 @@
 ### Aloha 🌊
-I'm Ernesto, full-stack web developer from Venezuela, based in Houston.
+I'm Ernesto, front-end web developer from Venezuela, based in Houston.
 
 - 👩‍🏭 Currently working at [Koch-Glitsch.](https://koch-glitsch.com/)
 - 🌱 Currently learning more advanced practices of web development.
