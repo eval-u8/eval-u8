@@ -5,13 +5,16 @@ I'm Ernesto, front-end web developer from Venezuela, based in Houston.
 - 🌱 Currently learning more advanced practices of web development.
 - 🤔 Looking for help with contributing to OSS.
 - 📫 How to reach me: evalecillos@gmail.com.
-- ⚡  Fun fact: Native Spanish speaker, I also like languages as a whole.
+- ⚡  Fun fact: Native Spanish speaker. I also like languages as a whole.
+- 📖 Fullstack web development bootcamp grad from the University of Texas at Austin
+  
 ## Skills 💪
 * HTML
 * CSS
 * JavaScript
 * React
 * TailWind
+* I use NeoVim btw
 
 ## Current Tech Interests 👨‍💻
 * [Rust](https://www.rust-lang.org/)
