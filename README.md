@@ -1,17 +1,18 @@
 ### Aloha 🌊
-I'm Ernesto, front-end web developer from Venezuela, based in Houston.
+I'm Ernesto, a developer originally from Venezuela, based in Houston.
 
 - 👩‍🏭 Currently working at [Koch-Glitsch.](https://koch-glitsch.com/)
-- 🌱 Currently learning more advanced practices of web development.
+- 🌱 Currently going deeper into backend development.
 - 🤔 Looking for help with contributing to OSS.
 - 📫 How to reach me: evalecillos@gmail.com.
-- ⚡  Fun fact: Native Spanish speaker. I also like languages as a whole.
-- 📖 Fullstack web development bootcamp grad from the University of Texas at Austin
+- ⚡  Fun fact: Native Spanish speaker. Football is life ⚽️
+- 📖 Fullstack web development bootcamp grad from the University of Texas at Austin.
   
 ## Skills 💪
 * HTML
 * CSS
 * JavaScript
+* Python
 * React
 * TailWind
 * I use NeoVim btw
@@ -27,7 +28,7 @@ I'm Ernesto, front-end web developer from Venezuela, based in Houston.
 ## Other Interests 👀
 * Football (some call it soccer)
 * Traveling
-* Rock or EDM music
-* Trying new foods
+* Rock & EDM music
+* Trying new food
 * Video games
 * Random cool tech happening
