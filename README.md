@@ -2,7 +2,7 @@
 I'm Ernesto, a developer originally from Venezuela, based in Houston.
 
 - 👩‍🏭 Currently working at [Koch-Glitsch.](https://koch-glitsch.com/)
-- 🌱 Currently going deeper into backend development.
+- 🌱 Currently going deeper into backend development. Thanks to [Boot.dev](https://www.boot.dev/tracks/backend)
 - 🤔 Looking for help with contributing to OSS.
 - 📫 How to reach me: evalecillos@gmail.com.
 - ⚡  Fun fact: Native Spanish speaker. Football is life ⚽️
