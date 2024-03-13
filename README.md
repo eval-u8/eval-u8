@@ -1,5 +1,5 @@
 ### Aloha 🌊
-I'm Ernesto, a developer originally from Venezuela, based in Houston.
+I'm Ernesto, a developer originally from Venezuela, based in Houston. I enjoy making websites but backend's allure tempts me a ton. I'm very interested in JS, Rust, Golang, and Python. I'd love to work on a tight-knit team where I can make an impact quickly and build cool tech.
 
 - 👩‍🏭 Currently working at [Koch-Glitsch.](https://koch-glitsch.com/)
 - 🌱 Currently going deeper into backend development. Thanks to [Boot.dev](https://www.boot.dev/tracks/backend)
