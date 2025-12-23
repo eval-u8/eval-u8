@@ -14,7 +14,7 @@ Yahoo, a developer originally from Venezuela, based in Houston. I'm very interes
 * Python
 * React
 * TailWind
-* I use NeoVim btw
+* I like NeoVim btw
 
 ## Current Tech Interests 👨‍💻
 * [Golang](https://go.dev/)
