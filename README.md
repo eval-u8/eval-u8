@@ -1,7 +1,7 @@
 ### Aloha 🌊
-I'm Ernesto, a developer originally from Venezuela, based in Houston. I enjoy making websites but the backend tempts me a ton. I'm very interested in JS, Rust, Golang, and Python. I'd love to work on a tight-knit team where I can make an impact quickly and build cool tech. If you're hiring, let's chat.
+Yahoo, a developer originally from Venezuela, based in Houston. I'm very interested in Rust, Golang, and Python. Working on building cool tech. If you're hiring, let's chat.
 
-- 👩‍🏭 Currently working at [Koch-Glitsch.](https://koch-glitsch.com/)
+- 👩‍🏭 Currently working at an  IT MSP
 - 🌱 Currently going deeper into backend development. Thanks to [Boot.dev](https://www.boot.dev/tracks/backend)
 - 🤔 Looking for help with contributing to OSS.
 - 📫 How to reach me: evalecillos@gmail.com.
@@ -18,9 +18,8 @@ I'm Ernesto, a developer originally from Venezuela, based in Houston. I enjoy ma
 * I use NeoVim btw
 
 ## Current Tech Interests 👨‍💻
-* [Rust](https://www.rust-lang.org/)
-* [Svelte](https://svelte.dev/)
 * [Golang](https://go.dev/)
+* [Rust](https://www.rust-lang.org/)
 * [Angular](https://angular.io/)
 * [Bun](https://bun.sh/)
 * [Astro](https://astro.build/)
