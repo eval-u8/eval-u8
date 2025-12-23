@@ -3,7 +3,6 @@ Yahoo, a developer originally from Venezuela, based in Houston. I'm very interes
 
 - 👩‍🏭 Currently working at an  IT MSP
 - 🌱 Currently going deeper into backend development. Thanks to [Boot.dev](https://www.boot.dev/tracks/backend)
-- 🤔 Looking for help with contributing to OSS.
 - 📫 How to reach me: evalecillos@gmail.com.
 - ⚡  Fun fact: Native Spanish speaker. Football is life ⚽️
 - 📖 Fullstack web development bootcamp grad from the University of Texas at Austin.
